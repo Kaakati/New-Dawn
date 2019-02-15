@@ -1,0 +1,21 @@
+{
+    "name": "kaakati-dark-theme",
+    "displayName": "Kaakati Dark Theme",
+    "description": "Colorful Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kaakati Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kaakati Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
